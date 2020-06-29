@@ -13,24 +13,15 @@ html,body{
     height: 100%;
 }
 
-.um{
-    width: 500px;
-    height: 800px;
-    background: red;
+.tipo1{
+    color: rgb(100,100,100);
 }
 
-.um > .dois{
-    width: 300px;
-    height: 300px;
-    background: green;
+a.link_{
+    font-size: 30px;
 }
-.um > .tres{
-    width: 100px;
-    height: 100px;
-    background: blue;
+.tipo2{
+   font-size: 40px; 
 }
-.um .quatro{
-    width: 100px;
-    height: 100px;
-    background: gray;
-}
+
+
