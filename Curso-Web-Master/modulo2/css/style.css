@@ -1,34 +1,4 @@
-﻿*{
-    margin: 0;
-    padding: 0;
-}
-/*
-Estilo para o conteúdo do nosso site
-*/
-
-.artigo{
-    width: 1280px;
-    padding: 40px;
-    background-color: rgb(200,200,200);
-    margin: 40px auto;
-    text-align: center;
-}
-.artigo h1{
-    color: rgb(66,149,244);
-    font-size: 23px;
-    font-family: "Tahoma";
-    font-style: normal;
-    font-weight: normal;
-    /*font-variant: small-caps;*/   
-}
-.artigo p{
-    color: #b4b4b4;
-    text-align: left;
-    font-size: 17px;
-    font-family: 'tahoma';
-    font-style: normal;
-    font-weight: bold;
-    line-height: 40px;
-    margin-top: 12px;
-
+﻿p{
+    letter-spacing: 10px;
+    line-height: 30px;
 }
