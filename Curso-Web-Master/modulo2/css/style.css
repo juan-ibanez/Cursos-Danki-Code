@@ -2,22 +2,33 @@
     margin: 0;
     padding: 0;
 }
-a{
-    text-decoration: none;
-}
+/*
+Estilo para o conteúdo do nosso site
+*/
 
-.menu{
-    width: 900px;
-    margin: 30px auto;
+.artigo{
+    width: 1280px;
+    padding: 40px;
+    background-color: rgb(200,200,200);
+    margin: 40px auto;
     text-align: center;
-    
 }
-
-.menu a{
-    color: red;
-    padding-right: 8px;
-    border-right: 3px solid red;
-    font-size: 20px;
-    margin: 0 10px;
+.artigo h1{
+    color: rgb(66,149,244);
+    font-size: 23px;
+    font-family: "Tahoma";
+    font-style: normal;
+    font-weight: normal;
+    /*font-variant: small-caps;*/   
 }
+.artigo p{
+    color: #b4b4b4;
+    text-align: left;
+    font-size: 17px;
+    font-family: 'tahoma';
+    font-style: normal;
+    font-weight: bold;
+    line-height: 40px;
+    margin-top: 12px;
 
+}
